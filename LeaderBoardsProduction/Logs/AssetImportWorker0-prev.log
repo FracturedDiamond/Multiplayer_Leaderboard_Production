@@ -1,0 +1,549 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 7953 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/hpfan/Documents/ERAU/8 - Fall 2021/SIM250_Multiplayer/Module_04/LeaderBoardsProduction
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55389
+Successfully changed project path to: C:/Users/hpfan/Documents/ERAU/8 - Fall 2021/SIM250_Multiplayer/Module_04/LeaderBoardsProduction
+C:/Users/hpfan/Documents/ERAU/8 - Fall 2021/SIM250_Multiplayer/Module_04/LeaderBoardsProduction
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/hpfan/Documents/ERAU/8 - Fall 2021/SIM250_Multiplayer/Module_04/LeaderBoardsProduction/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     3976 MB
+    Driver:   27.20.100.9664
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002611 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.101 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1287 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.0 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1736.
+Total: 1.814400 ms (FindLiveObjects: 0.216000 ms CreateObjectMapping: 0.025200 ms MarkObjects: 1.491700 ms  DeleteObjects: 0.079900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PlayFabEditorExtensions
+  artifactKey: Guid(ae5f1dbf0cd80cd43bda32b219a816c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayFabEditorExtensions using Guid(ae5f1dbf0cd80cd43bda32b219a816c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79a67fb9c5ef7a8c441da3511e1c6a3') in 0.012282 seconds
+  Import took 0.016288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.840980 seconds.
+  path: Assets/halloween_free/scenes
+  artifactKey: Guid(5de340fb713fa0842a7074b8fdd69a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/halloween_free/scenes using Guid(5de340fb713fa0842a7074b8fdd69a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc791f00a40445341e7453f0bc39f7f') in 0.011772 seconds
+  Import took 0.014262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.993535 seconds.
+  path: Assets/halloween_free/textures
+  artifactKey: Guid(af5398be26e5e1e4e9274d7e0bd0b134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/halloween_free/textures using Guid(af5398be26e5e1e4e9274d7e0bd0b134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a207510dad26b11b16ba57316b0d8942') in 0.011805 seconds
+  Import took 0.014391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.116307 seconds.
+  path: Assets/halloween_free/desktop.ini
+  artifactKey: Guid(0233735462560574cae225d15996d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/halloween_free/desktop.ini using Guid(0233735462560574cae225d15996d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bee467c1664775e7b8215dc7574b10c') in 0.036896 seconds
+  Import took 0.039195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.694995 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(2c4e6c040861e4e4b817738c0bc5f09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(2c4e6c040861e4e4b817738c0bc5f09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c403fc429b641a8e5b1fb5d85f8f4e') in 0.007926 seconds
+  Import took 0.010191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.022173 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(5171d5dfbd78b3949917100f0a5dd7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(5171d5dfbd78b3949917100f0a5dd7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032d35ec40e5a2e477a9e51fe491b683') in 0.008494 seconds
+  Import took 0.012663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.332752 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df06d63ac01aeb172ebed9e6b297880') in 0.011947 seconds
+  Import took 0.014128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000916 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df06d63ac01aeb172ebed9e6b297880') in 0.004207 seconds
+  Import took 0.006358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.415360 seconds.
+  path: Assets/PumpkinSpinning.controller
+  artifactKey: Guid(8b2a260ea4f268e4aa64d851bd8e8f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PumpkinSpinning.controller using Guid(8b2a260ea4f268e4aa64d851bd8e8f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b500003c11cba95f7fa6d412e9a5fee') in 0.013348 seconds
+  Import took 0.015602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.017741 seconds.
+  path: Assets/PumpkinSpinning.anim
+  artifactKey: Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PumpkinSpinning.anim using Guid(1e8ba7d3a2a1441489f2b0c35fedcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddc980d3b279dc4c6c41096b9269f01') in 0.003767 seconds
+  Import took 0.006499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.906764 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(c4860bd583c0d2849811a6789801394c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(c4860bd583c0d2849811a6789801394c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28edc048626c4cd06554267851b55e2c') in 0.009027 seconds
+  Import took 0.011278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.665817 seconds.
+  path: Assets/cemetery halloween set/textures
+  artifactKey: Guid(a7dfdacc37347bb488506abd22495418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures using Guid(a7dfdacc37347bb488506abd22495418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b1110eda5e6b2794c9fa4c829948aa') in 0.009023 seconds
+  Import took 0.011252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.224799 seconds.
+  path: Assets/Leaderboard/Scenes/GameScene.unity
+  artifactKey: Guid(e9ad4b4a473513f49a8a419052e949d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Leaderboard/Scenes/GameScene.unity using Guid(e9ad4b4a473513f49a8a419052e949d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0878ab35aa51d387c2204bfaa1bdae86') in 0.017394 seconds
+  Import took 0.029011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.932103 seconds.
+  path: Assets/cemetery halloween set/textures/cemetery_halloween_atlas.tga
+  artifactKey: Guid(533f20d1d25eb984888f7a6157753055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/cemetery_halloween_atlas.tga using Guid(533f20d1d25eb984888f7a6157753055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8f05eec1a7d72737f89e1014b61071') in 0.060049 seconds
+  Import took 0.063719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/cemetery halloween set/textures/floor_14.png
+  artifactKey: Guid(ab33277ab8ae7534f9b003810f244f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_14.png using Guid(ab33277ab8ae7534f9b003810f244f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e480b5f38b9963cf31f5e7f5f76c4c47') in 0.058377 seconds
+  Import took 0.060602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/cemetery halloween set/textures/floor_12.mat
+  artifactKey: Guid(4558ef7bc514bdd4ea536e66c2cbdc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_12.mat using Guid(4558ef7bc514bdd4ea536e66c2cbdc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3eb08179a29cc098b51aa806bb62c5') in 0.163674 seconds
+  Import took 0.165883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/cemetery halloween set/textures/floor_14.mat
+  artifactKey: Guid(e539cccd52c19aa46ac9e3dd40ae7370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_14.mat using Guid(e539cccd52c19aa46ac9e3dd40ae7370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c23158bec6cd65bb9a8aac2834c3e6') in 0.026508 seconds
+  Import took 0.028945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/cemetery halloween set/textures/floor_12.png
+  artifactKey: Guid(575aaa66d3252ab46ad4d7008e2f7f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_12.png using Guid(575aaa66d3252ab46ad4d7008e2f7f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124a57ed83d60915277b4d4a104d004d') in 0.015023 seconds
+  Import took 0.018125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/cemetery halloween set/textures/floor_13.png
+  artifactKey: Guid(8f2f2716c0826a8409cc60b460b6e1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_13.png using Guid(8f2f2716c0826a8409cc60b460b6e1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f408ceb6472ea7f544815718c47b2596') in 0.024121 seconds
+  Import took 0.027170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/cemetery halloween set/textures/Tree_BG.tga
+  artifactKey: Guid(c38f3381ec0c2fe46b5e5c3656df0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/Tree_BG.tga using Guid(c38f3381ec0c2fe46b5e5c3656df0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e344aca8200c3cf4eab998858125a1f2') in 0.020593 seconds
+  Import took 0.024129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/cemetery halloween set/textures/floor_13.mat
+  artifactKey: Guid(f34124ba698ca1f4f8f61d81da394ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_13.mat using Guid(f34124ba698ca1f4f8f61d81da394ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fd18a824bfe9411d23a914f54c6a6a') in 0.027217 seconds
+  Import took 0.029706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/cemetery halloween set/textures/floor_11.mat
+  artifactKey: Guid(71ea78aa56fd40544840810c9e5b0590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_11.mat using Guid(71ea78aa56fd40544840810c9e5b0590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe06a159e87f5a0a3fefb55b2a6c3d8c') in 0.037504 seconds
+  Import took 0.040218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/cemetery halloween set/textures/floor_13.mat
+  artifactKey: Guid(f34124ba698ca1f4f8f61d81da394ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_13.mat using Guid(f34124ba698ca1f4f8f61d81da394ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fd18a824bfe9411d23a914f54c6a6a') in 0.016791 seconds
+  Import took 0.019608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/cemetery halloween set/textures/demo_scene_floor.png
+  artifactKey: Guid(1e8aad637ad10024eab9a69ed1d06fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/demo_scene_floor.png using Guid(1e8aad637ad10024eab9a69ed1d06fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd465396136ec83cd891958033e8d5aed') in 0.024404 seconds
+  Import took 0.027281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/cemetery halloween set/textures/floor_11.png
+  artifactKey: Guid(a2a3f5aa1919d754db7013249b67ee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_11.png using Guid(a2a3f5aa1919d754db7013249b67ee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc84220a1f371a10dbf26990b48beb97') in 0.017742 seconds
+  Import took 0.020698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.665058 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials
+  artifactKey: Guid(c71e3b947d840694e963f2470350c44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials using Guid(c71e3b947d840694e963f2470350c44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd3fc48b8b8e7b3306f7dcc97245fb4') in 0.009041 seconds
+  Import took 0.011279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036881 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials/cemetery_halloween_atlas.mat
+  artifactKey: Guid(b7216991a8c6f3e4296da80304cda7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials/cemetery_halloween_atlas.mat using Guid(b7216991a8c6f3e4296da80304cda7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d101b0f0fb4372ca8b19df8b9169557') in 0.032745 seconds
+  Import took 0.036504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials/floor_12.mat
+  artifactKey: Guid(7048cc2c08e54164eae472539717fe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials/floor_12.mat using Guid(7048cc2c08e54164eae472539717fe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c752e1897486911eadf4974c6cc542f5') in 0.022349 seconds
+  Import took 0.024951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials/Tree_BG.mat
+  artifactKey: Guid(50cadd17c7810644dac9d61844d8d8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials/Tree_BG.mat using Guid(50cadd17c7810644dac9d61844d8d8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0eac70510f53d3c63c1f8e61c1cb18') in 0.018766 seconds
+  Import took 0.021494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials/cemetery_halloween_atlas_alpha.mat
+  artifactKey: Guid(d74c09e9cc3913d4e8a45c129febb72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials/cemetery_halloween_atlas_alpha.mat using Guid(d74c09e9cc3913d4e8a45c129febb72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc6eb3d9578d6a752d36ff8c35314e0') in 0.051817 seconds
+  Import took 0.056791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/cemetery halloween set/Demo/Materials/demo_scene_floor.mat
+  artifactKey: Guid(a2dbc36369df2344ca6f2821af7d11b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Demo/Materials/demo_scene_floor.mat using Guid(a2dbc36369df2344ca6f2821af7d11b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa2f6a1023d7d63c6d31e8dec48640c') in 0.027528 seconds
+  Import took 0.031660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 356.817385 seconds.
+  path: Assets/cemetery halloween set/CemeteryHalloween
+  artifactKey: Guid(fa4d3719747758b458ee9f37caa6021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/CemeteryHalloween using Guid(fa4d3719747758b458ee9f37caa6021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36bd63c721309c6388bbebf26fb366d6') in 0.009450 seconds
+  Import took 0.012623 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+
+UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at PlayFab.PfEditor.PlayFabEditorPrefsSO.get_Instance () [0x00084] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Utils\PlayFabEditorPrefsSO.cs:38 
+  at PlayFab.PfEditor.SubMenuComponent.RegisterMenuItem (System.String n, System.Action m) [0x00010] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Components\SubMenuComponent.cs:42 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu.RegisterMenu () [0x00018] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:93 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu..cctor () [0x0003a] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:74 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1267 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1782.
+Total: 3.071700 ms (FindLiveObjects: 0.277800 ms CreateObjectMapping: 0.077500 ms MarkObjects: 2.626700 ms  DeleteObjects: 0.087800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.926307 seconds.
+  path: Assets/Leaderboard/Prefabs/PlayFabSystem.prefab
+  artifactKey: Guid(22d9d8f624c311c4689a6fcebe571b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Leaderboard/Prefabs/PlayFabSystem.prefab using Guid(22d9d8f624c311c4689a6fcebe571b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6590943a7e521d90ade2bdfaf6fe41') in 0.201822 seconds
+  Import took 0.206179 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001059 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+
+UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at PlayFab.PfEditor.PlayFabEditorPrefsSO.get_Instance () [0x00084] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Utils\PlayFabEditorPrefsSO.cs:38 
+  at PlayFab.PfEditor.SubMenuComponent.RegisterMenuItem (System.String n, System.Action m) [0x00010] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Components\SubMenuComponent.cs:42 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu.RegisterMenu () [0x00018] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:93 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu..cctor () [0x0003a] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:74 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.115 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1268 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.2 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1787.
+Total: 2.738200 ms (FindLiveObjects: 0.176700 ms CreateObjectMapping: 0.047200 ms MarkObjects: 2.411300 ms  DeleteObjects: 0.101300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+
+UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at PlayFab.PfEditor.PlayFabEditorPrefsSO.get_Instance () [0x00084] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Utils\PlayFabEditorPrefsSO.cs:38 
+  at PlayFab.PfEditor.SubMenuComponent.RegisterMenuItem (System.String n, System.Action m) [0x00010] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Components\SubMenuComponent.cs:42 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu.RegisterMenu () [0x00018] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:93 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu..cctor () [0x0003a] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:74 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1268 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.2 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1792.
+Total: 2.625700 ms (FindLiveObjects: 0.245600 ms CreateObjectMapping: 0.035700 ms MarkObjects: 2.259700 ms  DeleteObjects: 0.083600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+
+UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at PlayFab.PfEditor.PlayFabEditorPrefsSO.get_Instance () [0x00084] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Utils\PlayFabEditorPrefsSO.cs:38 
+  at PlayFab.PfEditor.SubMenuComponent.RegisterMenuItem (System.String n, System.Action m) [0x00010] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Components\SubMenuComponent.cs:42 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu.RegisterMenu () [0x00018] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:93 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu..cctor () [0x0003a] in C:\Users\hpfan\Documents\ERAU\8 - Fall 2021\SIM250_Multiplayer\Module_04\LeaderBoardsProduction\Assets\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:74 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1268 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.2 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 2.279800 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.040600 ms MarkObjects: 1.961000 ms  DeleteObjects: 0.059400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.461056 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(a7dfdacc37347bb488506abd22495418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(a7dfdacc37347bb488506abd22495418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c3ee62da5e04d1d6df50587ee5af4b') in 0.010802 seconds
+  Import took 0.013183 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.7 MB.
+System memory in use after: 44.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 1.651600 ms (FindLiveObjects: 0.178700 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.363500 ms  DeleteObjects: 0.069300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
